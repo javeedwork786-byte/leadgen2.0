@@ -1,0 +1,5 @@
+{
+  "name": "AI Lead Generation Bot",
+  "description": "An application that uses AI to find and extract business lead information from the web based on a user's search query. Leads are presented in a table and can be exported to CSV or Excel.",
+  "requestFramePermissions": []
+}
